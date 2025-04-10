@@ -1,0 +1,21 @@
+{
+    "name": "semihkaya/edm",
+    "description": "EDM Web Api entegrasyon kütüphanesi",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EDM\\WebApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Semih Kaya",
+            "email": "info@edm.com.tr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    }
+} 
